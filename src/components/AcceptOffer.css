@@ -1,0 +1,25 @@
+.accept-offer {
+    margin-bottom: 20px;
+  }
+  
+  .accept-offer button {
+    background-color: #B8621B; /* Your original color */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s; /* Added for smooth color transition */
+  }
+  
+  .accept-offer button:hover {
+    background-color: #9E541A; /* Darker shade when hovered */
+  }
+  .accept-offer button {
+    /* Other styles */
+    border-radius: 12px; /* Adjust this value to get the desired roundness */
+  }

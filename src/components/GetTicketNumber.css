@@ -1,0 +1,22 @@
+.get-ticket-number {
+    margin-bottom: 20px;
+  }
+  
+  .get-ticket-number button {
+    background-color: #000000;
+    border: none;
+    color: #E3CCAE;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+  }
+  
+  .get-ticket-number button:hover {
+    background-color: #333333; /* Adjust this to a darker shade of your original color */
+  }
