@@ -1,71 +1,50 @@
-# Getting Started with Create React App
+# Ticket Sale Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Submitted by: **Joel Lian**
 
-## Available Scripts
+This web app: **displays the group stage matches of the current champions league tournament**
 
-In the project directory, you can run:
+Time spent: *17** hours spent in total
 
-### `npm start`
+## Required Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The following **required** functionality is completed:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [x] **Task 1: Deploy in Goerli test Network **
+- [x] **Task 2: Front End Design **
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The following **components** features are implemented:
 
-### `npm run build`
+- [x] Purchase Ticket: A text box and button associated with the box. Inside the text box, a person can enter the ticket
+that he/she wants to purchase and then click the purchase button. If it’s a valid ticket and not
+purchased, the purchased will be completed and the person will receive a notification message
+in the site. Otherwise, the person will be notified the reason his purchase was not successful.
+- [x] Offer Swap: A text box and a button associated with the text box. Inside the box, a person will enter the
+ticket number he/she wants to swap for. It is also fine if you want to change it to an address of
+another person from the ticket number. The person will be notified that its offer is pending.
+- [x] Accept Offer: A text box and a button associated with the box. The person can enter either a ticket number or
+an address of another person who has offered an exchange. The person will be notified with a
+message once the swap is completed.
+- [x] Get Ticket Number: A button. In case a person forgot his/her ticket id, he/she can simply click this button and
+receive the ticket id.
+- [x] Return Ticket: A button that the customer can client click to return the ticket. The customer will
+get the refund (some service fee will be deducted) as described in previous assignment.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## License
 
-### `npm run eject`
+    Copyright [2023] [Joel Lian]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+        http://www.apache.org/licenses/LICENSE-2.0
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# CSC-494-TicketSale
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
