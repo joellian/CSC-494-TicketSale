@@ -31,6 +31,21 @@ receive the ticket id.
 - [x] Return Ticket: A button that the customer can client click to return the ticket. The customer will
 get the refund (some service fee will be deducted) as described in previous assignment.
 
+#Purchase:
+![purchase](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/99003973-87ee-47ef-92a6-32d9f7871a3b)
+
+#Purchase-Notification:
+![purchase-alert](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/0cf352b9-54fb-487c-abb0-c168f0de6f58)
+
+#Get Ticker Number:
+![Get-Ticket-Number](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/eb1f2005-e263-42b1-abd4-3b2ef5f09053)
+
+#Return Ticket - Part 1:
+![return-ticket-part1](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/2c07b301-629c-462a-af89-f5f416d0071d)
+
+
+#Return Ticket - Part 2:
+![return-ticket-part2](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/995f9305-a43b-4f57-bc82-6f3d1464385a)
 
 
 ## License
