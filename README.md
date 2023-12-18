@@ -31,20 +31,29 @@ receive the ticket id.
 - [x] Return Ticket: A button that the customer can client click to return the ticket. The customer will
 get the refund (some service fee will be deducted) as described in previous assignment.
 
-#Purchase:
+#**Purchase:**
 ![purchase](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/99003973-87ee-47ef-92a6-32d9f7871a3b)
 
-#Purchase-Notification:
+#**Accept Offer Part 1:**
+![accept_offer1](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/34b95eaa-8f07-4dd2-a830-d3380999f5b8)
+
+#**Accept Offer Part 2 - Confirmation:**
+![accet_offer2](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/e498005d-e79b-40d2-8c13-7c7abdf9d2ce)
+
+#**Accept Offer Part 3 - Notification:**
+<img width="1033" alt="offeraccepted" src="https://github.com/joellian/CSC-494-TicketSale/assets/65100772/602a32c4-c2d8-4842-b8e9-7938d162d1ff">
+
+#**Purchase-Notification:**
 ![purchase-alert](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/0cf352b9-54fb-487c-abb0-c168f0de6f58)
 
-#Get Ticker Number:
+#**Get Ticker Number:**
 ![Get-Ticket-Number](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/eb1f2005-e263-42b1-abd4-3b2ef5f09053)
 
-#Return Ticket - Part 1:
+#**Return Ticket - Part 1:**
 ![return-ticket-part1](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/2c07b301-629c-462a-af89-f5f416d0071d)
 
 
-#Return Ticket - Part 2:
+#**Return Ticket - Part 2:**
 ![return-ticket-part2](https://github.com/joellian/CSC-494-TicketSale/assets/65100772/995f9305-a43b-4f57-bc82-6f3d1464385a)
 
 
