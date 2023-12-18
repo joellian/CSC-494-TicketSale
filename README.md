@@ -4,7 +4,7 @@ Submitted by: **Joel Lian**
 
 This web app: **Allows user to purchase, offer, accept, get, and return ticket. When using The purchase feature, you must be connected to MetaMask. Using MetaMask you can access all of the features below. **
 
-Time spent: *17** hours spent in total
+Time spent: *20** hours spent in total
 
 ## Required Features
 
