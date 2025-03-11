@@ -10,7 +10,7 @@ Time spent: **20** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] **Task 1: Deploy in Sepholia test Network **
+- [x] **Task 1: Deploy in Sepolia test Network **
 - [x] **Task 2: Front End Design **
 
 
